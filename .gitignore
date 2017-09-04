@@ -2,3 +2,6 @@ learnagain2/__pycache__/*
 db.sqlite3
 geckodriver.log
 .idea/*
+lists/__pycache__/*
+learnagain2/*.pyc
+lists/migrations/*
