@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+}
+#id_list_table{
+    margin-top: 2ex;
+}
+#text_submit{
+    position: relative;
+    margin-left: -30px;
+}
+#item_text{
+    display: block;
+    height: 100px;
+}
